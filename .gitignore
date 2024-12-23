@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
+.env
+.venv/
+venv/
+ENV/
+env/
+*.egg
+
+# Rust
+/target/
+Cargo.lock
+Cargo.toml
+*.rs.bk
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other
+*.log
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.mp4
